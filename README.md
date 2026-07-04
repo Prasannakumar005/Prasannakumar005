@@ -143,7 +143,7 @@ To become a Software Engineer who builds secure and useful applications.
 
 <!-- Replace with your Email -->
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:ps3156968@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
