@@ -137,7 +137,7 @@ To become a Software Engineer who builds secure and useful applications.
 
 <!-- Replace with your LinkedIn -->
 
-<a href="https://www.linkedin.com/in/prasannakumar005/" target="_blank">
+<a href="https://www.linkedin.com/in/prasannakumar-s-43b6762b5" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
